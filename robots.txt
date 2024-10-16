@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pacabitojai.pages.dev/sitemap.xml
